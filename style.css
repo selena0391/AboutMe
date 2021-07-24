@@ -1,0 +1,39 @@
+html{
+	background: url('best-background-images-for-professional-websites-6.jpg')no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.happy{
+display: flex;
+}
+
+.happy div{
+	border: 2px grey solid;
+	padding: 10px;
+}
+.happy h2{
+	color: darkslategray;
+	font-weight: bold;
+}
+.happy p{
+	color: darklava;
+	font-style: initial;
+	font-weight: bold;
+}
+
+.dogs{
+	flex: 1;
+}
+
+.traveling{
+	flex: 1;
+}
+.food{
+	flex: 1;
+}
+.experience p{
+	font-size: 40px;
+}
